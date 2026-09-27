@@ -1,3 +1,7 @@
+> **This package has moved.** It is now the `PaneLayout` module of [swift-appkit-ui](https://github.com/Sidewatch/swift-appkit-ui), with its full
+> history. Depend on `.package(url: "https://github.com/Sidewatch/swift-appkit-ui.git", from: "0.1.0")` and the `PaneLayout` product;
+> `import PaneLayout` is unchanged. This repository is archived.
+
 # Swift Pane Layout
 
 A split tree of panes and axes for AppKit, with no `NSSplitView` and no Auto Layout beneath it.
